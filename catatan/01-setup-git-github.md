@@ -22,8 +22,8 @@ Buka **Git Bash** di VS Code (Pilih Git Bash sebagai default terminal).
 
 **A. Atur Identitas Git:**
 ```bash
-git config --global user.name "Akram"
-git config --global user.email "akramsuwandi@students.amikom.ac.id"
+git config --global user.name "akram09"
+git config --global user.email "akramsuwandi@gmail.com"
 ```
 *(Cek dengan `git config --global user.name` untuk memastikan).*
 
